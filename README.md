@@ -26,6 +26,9 @@
 | Indie.Deals | 独立产品与优惠目录，已有 Mac 应用条目。需登录。标准收录 19 美元，审核前需验证官网回链，获批后付款。 | [投稿](https://indie.deals/submit) · [价格](https://indie.deals/pricing) · [Mac 应用示例](https://indie.deals/) |
 | Startup Fame | 通用产品目录，已有原生 Mac 应用条目。注册后提交官网，免费 Verified 档需在首页放置徽章并通过审核。 | [登录投稿](https://startupfa.me/login) · [官方说明](https://startupfa.me/about) · [Mac 应用示例](https://startupfa.me/s/noticky) |
 | Findly.tools | 通用工具目录，已有原生 Mac 应用条目。需登录，免费收录需官网徽章，Premium 为一次性 29 美元。 | [投稿](https://findly.tools/submit) · [官方说明](https://findly.tools/about) · [Mac 应用示例](https://findly.tools/vemoir) |
+| Goodfirms | 偏 B2B 的软件评价目录，已有 Mac 工具条目。通用供应商入口支持免费申请，单独新增 Mac 软件的流程和费用待确认。 | [供应商入口](https://www.goodfirms.co/get-listed) · [Mac 应用示例](https://www.goodfirms.co/software/folderssynchronizer) |
+| IndieHub | 通用独立产品目录。需登录，Basic 档 4.90 美元，无需官网回链。独立 macOS 应用的具体审核条件待确认。 | [投稿](https://indiehub.best/submit) · [价格](https://indiehub.best/pricing) |
+| Apps.Deals | Mac 应用限时优惠目录。免费提交，需填写原价、优惠价和起止日期。适用于有实际优惠的应用。 | [提交优惠](https://www.apps.deals/submit) · [收录与推广选项](https://www.apps.deals/feature) |
 
 ## 产品发布榜
 
@@ -33,7 +36,7 @@
 | --- | --- | --- |
 | Product Hunt | 通用产品发布社区，可从发布入口开始。已有条目的产品先查重新发布规则。 | [发布](https://www.producthunt.com/launch) |
 | DodoLaunch | 创办者介绍称原生 Mac 应用可参加免费周榜。官网表单本次未能核实，账号和徽章条件待确认。 | [官网](https://dodolaunch.com/) · [创办者介绍](https://peerlist.io/almasmalik/project/dodolaunch) |
-| Peerlist Launchpad | 周榜每周一 UTC 开放，由项目开发者本人发布。 | [发布](https://peerlist.io/launchpad) · [规则说明](https://peerlist.io/scroll/post/ACTHJKRA7GAA6AD8A3RGJEDNDAM8AP) |
+| Peerlist Launchpad | 周榜每周一 UTC 开放，由项目开发者本人发布。已有原生 Mac 应用参榜。 | [发布](https://peerlist.io/launchpad) · [规则说明](https://peerlist.io/scroll/post/ACTHJKRA7GAA6AD8A3RGJEDNDAM8AP) · [Mac 应用示例](https://peerlist.io/appitstudio/project/cooldock) |
 | Fazier | 免费档需在产品官网首页或页脚放徽章链接，也提供付费发布。 | [投稿与价格](https://fazier.com/submit) |
 | Uneed | 可先用产品网址生成预览，注册后保存。免费发布名额未确认。 | [投稿](https://www.uneed.best/submit-a-tool) · [价格](https://www.uneed.best/pricing) |
 | Launching Next | 免费提交，表单接受个人项目。需要联系人姓名和邮箱，加急可选。 | [投稿](https://www.launchingnext.com/submit/) |
