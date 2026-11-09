@@ -23,6 +23,9 @@
 | MacGrove | 提供开发者投稿与应用推荐两种入口。开发者表单要求图标和 1200 × 630 封面。 | [投稿](https://macgrove.app/submit) |
 | AlternativeTo | 通用软件替代品目录。登录后贡献条目，由平台审核，可补充同类软件和标签。 | [投稿](https://alternativeto.net/manage-item/) · [FAQ](https://alternativeto.net/faq/) |
 | SaaSHub | 通用软件目录，接受已上线且支持英文的软件。拒绝免费子域名，域名邮箱验证可提高审核优先级。 | [投稿与规则](https://www.saashub.com/services/submit) |
+| Indie.Deals | 独立产品与优惠目录，已有 Mac 应用条目。需登录。标准收录 19 美元，审核前需验证官网回链，获批后付款。 | [投稿](https://indie.deals/submit) · [价格](https://indie.deals/pricing) · [Mac 应用示例](https://indie.deals/) |
+| Startup Fame | 通用产品目录，已有原生 Mac 应用条目。注册后提交官网，免费 Verified 档需在首页放置徽章并通过审核。 | [登录投稿](https://startupfa.me/login) · [官方说明](https://startupfa.me/about) · [Mac 应用示例](https://startupfa.me/s/noticky) |
+| Findly.tools | 通用工具目录，已有原生 Mac 应用条目。需登录，免费收录需官网徽章，Premium 为一次性 29 美元。 | [投稿](https://findly.tools/submit) · [官方说明](https://findly.tools/about) · [Mac 应用示例](https://findly.tools/vemoir) |
 
 ## 产品发布榜
 
@@ -34,6 +37,8 @@
 | Fazier | 免费档需在产品官网首页或页脚放徽章链接，也提供付费发布。 | [投稿与价格](https://fazier.com/submit) |
 | Uneed | 可先用产品网址生成预览，注册后保存。免费发布名额未确认。 | [投稿](https://www.uneed.best/submit-a-tool) · [价格](https://www.uneed.best/pricing) |
 | Launching Next | 免费提交，表单接受个人项目。需要联系人姓名和邮箱，加急可选。 | [投稿](https://www.launchingnext.com/submit/) |
+| ScrollLaunch | 有 macOS 分类，可免费参加周榜，需 Google 或邮箱登录。免费产品页的外链在官网保留徽章或回链期间为 dofollow。登录页提示会订阅其 Substack。 | [发布](https://www.scrolllaunch.com/dashboard/products/new) · [价格](https://www.scrolllaunch.com/pricing) · [macOS 分类](https://www.scrolllaunch.com/platforms/macos) |
+| FoundrList | 通用软件周榜，已有原生 Mac 应用。通过 Launch Agent 投稿。免费排期至少提前 4 周，需关注指定 X 账号，并在官网放徽章或完成平台规定的社区互动。 | [发布](https://foundrlist.com/agent) · [规则](https://foundrlist.com/about) · [Mac 应用示例](https://www.foundrlist.com/product/frset) |
 
 ## 中文渠道与社区
 
