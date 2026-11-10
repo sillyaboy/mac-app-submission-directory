@@ -2,7 +2,7 @@
 
 给 macOS 独立开发者的投稿目录。按渠道类型查找入口，提前确认登录、邮箱验证、官网徽章和审核要求。
 
-资料核对日期：2026-11-09。费用指平台收录或发布费用。标为「未确认」的条件以实际表单为准。
+目录最近更新：2026-11-10。费用指平台收录或发布费用。标为「未确认」的条件以实际表单为准。
 
 **[Mac 应用目录](#mac-应用目录) · [产品发布榜](#产品发布榜) · [中文渠道与社区](#中文渠道与社区) · [补充条目](#补充条目)**
 
@@ -29,6 +29,13 @@
 | Goodfirms | 偏 B2B 的软件评价目录，已有 Mac 工具条目。通用供应商入口支持免费申请，单独新增 Mac 软件的流程和费用待确认。 | [供应商入口](https://www.goodfirms.co/get-listed) · [Mac 应用示例](https://www.goodfirms.co/software/folderssynchronizer) |
 | IndieHub | 通用独立产品目录。需登录，Basic 档 4.90 美元，无需官网回链。独立 macOS 应用的具体审核条件待确认。 | [投稿](https://indiehub.best/submit) · [价格](https://indiehub.best/pricing) |
 | Apps.Deals | Mac 应用限时优惠目录。免费提交，需填写原价、优惠价和起止日期。适用于有实际优惠的应用。 | [提交优惠](https://www.apps.deals/submit) · [收录与推广选项](https://www.apps.deals/feature) |
+| Indie App Catalog | 面向独立开发者。商店版需在美国 App Store 可下载，填商店链接后提交审核。站外分发版有单独表单，需登录。 | [App Store 版投稿](https://indieappcatalog.com/app/submit) · [站外分发版投稿](https://indieappcatalog.com/non-appstore/submit) |
+| macapps.org | 收录 App Store、官网和 Homebrew 分发的 Mac 应用。公开表单需名称、链接、定价和一句话介绍，邮箱选填，逐条审核。 | [投稿](https://macapps.org/submit) · [目录](https://macapps.org/) |
+| Macfolio | 收录 Mac 软件、硬件和桌面布置。官网底部有 Submit 按钮，具体表单字段与费用待确认。 | [官网](https://macfolio.com/) · [软件目录](https://macfolio.com/software) |
+| MacMenuBar.com | 人工审核，仅收以菜单栏为主要使用入口的应用。只有状态图标或快捷入口的应用通常不符合条件。 | [菜单栏应用投稿](https://macmenubar.com/submit-your-menu-bar-app/) |
+| FileHorse for Mac | Mac 软件下载目录。开发者可经联系表单申请，团队审核。官方投稿页有公开说明，表单本次未能打开，费用待确认。 | [投稿说明](https://mac.filehorse.com/submit/) |
+| Uptodown | 软件分发平台。通过开发者控制台新增 Mac 应用，需上传可分发安装包或提供文件直链。仅有 Mac App Store 页面链接无法完成文件提交。 | [发布指南](https://support.uptodown.com/hc/en-us/articles/360053260491-How-to-publish-an-app-on-Uptodown) |
+| OpenDMG | 开源 Mac 应用目录。需公开、有许可证的 GitHub 仓库，最新版 GitHub Release 须提供 DMG 或 ZIP。无需账号或邮箱，人工审核。 | [投稿](https://opendmg.app/#submit) |
 
 ## 产品发布榜
 
@@ -55,6 +62,7 @@
 | UNTAG | 产品自荐可发论坛，工作流或开发复盘可向编辑投稿。 | [投稿说明](https://utgd.net/submission) |
 | Hacker News「Show HN」 | 由参与开发的人发布可直接试用的作品，并在评论区交流。标题以 `Show HN:` 开头。 | [发布规则](https://news.ycombinator.com/showhn.html) |
 | 阮一峰《科技爱好者周刊》 | 通过 GitHub Issue 推荐，简述用途并附公开链接。 | [Issues](https://github.com/ruanyf/weekly/issues) |
+| MacSources | 英文媒体评测渠道，通过官方联系表单申请评测，由编辑决定是否报道。 | [联系表单](https://macsources.com/contact/) · [编辑部说明](https://macsources.com/team/) |
 
 ## 投稿前准备
 
